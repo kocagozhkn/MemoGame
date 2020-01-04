@@ -1,0 +1,33 @@
+.main{
+    height: 650px;
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+    justify-content: center;
+    align-content: center;
+    box-sizing: border-box;
+}
+
+
+
+.child{
+    height: 100px;
+    width: 100px;
+    background-color: lightsalmon;
+    margin: 5px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.child:hover{
+    border: 1px solid black;
+}
+
+p{
+    font-size: 28px;
+    font-weight: bold;
+}
