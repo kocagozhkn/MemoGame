@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Elma Gida",
+    "country": "England",
+    "Credit": 10000
+  },
+  {
+    "name": "Armut Gida",
+    "country": "Dominic",
+    "Credit": 70000
+  },
+  {
+    "name": "Karpuz Gida",
+    "country": "Russia",
+    "Credit": 8000
+  },
+  {
+    "name": "Muz Gida",
+    "country": "Turkey",
+    "Credit": 7000
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "firstnodeproject",
+  "version": "1.0.0",
+  "description": "myfirstproject",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kocagozhkn/firstnode.git"
+  },
+  "author": "kocagoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kocagozhkn/firstnode/issues"
+  },
+  "homepage": "https://github.com/kocagozhkn/firstnode#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
